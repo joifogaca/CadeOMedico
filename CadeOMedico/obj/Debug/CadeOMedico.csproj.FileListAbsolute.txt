@@ -29,3 +29,8 @@ C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\EntityFram
 C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\EntityFramework.SqlServer.dll
 C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\EntityFramework.xml
 C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\EntityFramework.SqlServer.xml
+C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\Antlr3.Runtime.dll
+C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\System.Web.Optimization.dll
+C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\WebGrease.dll
+C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\Antlr3.Runtime.pdb
+C:\Users\joifo\OneDrive\Documentos\GitHub\CadeOMedico\CadeOMedico\bin\System.Web.Optimization.xml
