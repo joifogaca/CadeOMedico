@@ -129,6 +129,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="Controllers\CidadesController.cs" />
+    <Compile Include="Controllers\EspecialidadesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MedicosController.cs" />
     <Compile Include="Controllers\TesteLayoutController.cs" />
@@ -224,6 +226,12 @@
     <Content Include="Views\Medicos\Index.cshtml" />
     <Content Include="Views\Medicos\Adicionar.cshtml" />
     <Content Include="Views\Medicos\Edit.cshtml" />
+    <Content Include="Views\Cidades\Index.cshtml" />
+    <Content Include="Views\Cidades\Adicionar.cshtml" />
+    <Content Include="Views\Cidades\Edit.cshtml" />
+    <Content Include="Views\Especialidades\Index.cshtml" />
+    <Content Include="Views\Especialidades\Adicionar.cshtml" />
+    <Content Include="Views\Especialidades\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
